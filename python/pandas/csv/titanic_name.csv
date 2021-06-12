@@ -1,0 +1,10 @@
+Variable,Key,Value
+survival,0,No
+survival,1,Yes
+pclass,1,1st
+pclass,2,2nd
+pclass,3,3rd
+embarked,C,Cherbourg
+embarked,Q,Queenstown
+embarked,S,Southampton
+embarked,X,Unknown
