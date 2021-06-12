@@ -1,1 +1,1 @@
-# python
+# fundumental of python
